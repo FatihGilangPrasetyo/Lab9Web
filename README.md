@@ -24,6 +24,8 @@ Hasilnya adalah sebagai berikut <p>
  <p>
 Tugas 9 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang
 database, sehingga setiap halamannya memiliki template tampilan yang sama. <p>
+ 
+![image](https://user-images.githubusercontent.com/81542329/121171718-b1e98a00-c80b-11eb-8b24-abd6a328d611.png) <p>
   
  
 
